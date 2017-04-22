@@ -1,3 +1,4 @@
 Esta es la licencia
 Le agregué otra línea
-Otra linea
+línea de conflicto_qué pasa_zuzede
+Otra línea
