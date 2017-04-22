@@ -1,3 +1,4 @@
 Esta es la licencia
 Le agregué otra línea
+Esta es l verdadera líea en conflicto
 Otra linea
